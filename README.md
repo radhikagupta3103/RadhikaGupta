@@ -8,6 +8,9 @@
   Chicago, IL 🇺🇸
 </p>
 
+<p align="center">
+  <img src="MYimage" width="450" style="border-radius: 20px;" />
+</p>
 ---
 
 ## 👩‍💻 About Me
