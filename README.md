@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-  <img src="MYimage" width="450" style="border-radius: 20px;" />
+  <img src="https://raw.githubusercontent.com/radhikagupta3103/RadhikaGupta/main/MYimage.jpg" width="450"/>
 </p>
----
+
 
 ## 👩‍💻 About Me
 
