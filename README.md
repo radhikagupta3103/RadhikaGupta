@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋 I'm Radhika Gupta</h1>
 
+<h1 align="center">Hi 👋 I'm Radhika Gupta</h1>
 <h3 align="center">Senior Data Analyst | Risk Analytics | Machine Learning </h3>
 
 <p align="center">
@@ -7,6 +7,8 @@
   <a href="mailto:gradhika@bu.edu">Email</a> •
   Chicago, IL 🇺🇸
 </p>
+
+---
 
 <p align="center">
   <img src="https://github.com/radhikagupta3103/RadhikaGupta/blob/radhikagupta3103-patch-1/MYimage.jpg" width="450"/>
