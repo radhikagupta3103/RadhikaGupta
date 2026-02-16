@@ -65,11 +65,11 @@ AWS • Azure • AWS SageMaker • Git • CI/CD • Model Deployment • Jupyt
 
 ✔ Improved fraud detection efficiency through optimized SQL pipelines and risk segmentation
 
-✔ Delivered executive-level reporting to risk leadership
+✔ Delivered executive level reporting to risk leadership
 
 ## ❤️ Cardiovascular Risk Prediction (ML Production Framework)
 
-✔ Designed and validated a classification model for early-stage heart failure detection
+✔ Designed and validated a classification model for early stage heart failure detection
 
 ✔ Applied feature engineering + statistical modeling for performance lift
 
@@ -79,13 +79,13 @@ AWS • Azure • AWS SageMaker • Git • CI/CD • Model Deployment • Jupyt
 
 ## 🚖 Dynamic Pricing & Revenue Optimization (Uber & Lyft Analysis)
 
-✔ Engineered an end-to-end data pipeline integrating APIs + SQL + BI tools
+✔ Engineered an end to end data pipeline integrating APIs + SQL + BI tools
 
 ✔ Improved pricing strategy insights, influencing revenue optimization by 25%
 
-✔ Performed weather-impact modeling & surge behavior analysis
+✔ Performed weather impact modeling & surge behavior analysis
 
-✔ Delivered data-driven recommendations for strategic pricing
+✔ Delivered data driven recommendations for strategic pricing
 
 ## 🎮 Consumer Behavior Classification Model
 
