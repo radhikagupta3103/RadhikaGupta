@@ -11,7 +11,7 @@
 </p>
 
 
-## 👩🏻‍💻About Me
+## 👩🏻‍💻 About Me
 
 Senior Data Scientist with 5+ years of experience leading end to end analytics initiatives across Risk, Fraud, Marketing Analytics, and Enterprise Data Platforms.
 
@@ -29,9 +29,9 @@ I specialize in translating complex, large scale datasets into production grade 
 
 - KPI Design & Executive Reporting
 
-🚀 I build solutions that move beyond experimentation — delivering scalable, monitored, business-aligned data products.
+🚀 I build solutions that move beyond experimentation delivering scalable, monitored, business aligned data products.
 
-✨ I believe data science is not just modeling — it’s influencing strategic decisions at scale.
+✨ I believe data science is not just modeling it’s influencing strategic decisions at scale.
 
 ---
 
@@ -55,19 +55,45 @@ AWS • Azure • AWS SageMaker • Git • CI/CD • Model Deployment • Jupyt
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Strategic Projects
 
-### 🔎 Fraud Risk Analytics Dashboard
-Analyzed millions of transactions using SQL & Power BI to reduce fraud investigation time by **80%**.
+## 🔎 Fraud Risk Intelligence Platform
 
-### ❤️ Heart Failure Prediction Model
-Built ML classification model to predict cardiovascular risk using Python and statistical modeling.
+✔ Led development of a scalable fraud analytics dashboard processing millions of transactions
 
-### 🚖 Uber & Lyft Surge Pricing Analysis
-Developed end-to-end data pipeline integrating APIs + SQL to analyze pricing trends and weather impact — improved revenue strategy by **25%**.
+✔ Reduced investigation turnaround time by 80%
 
-### 🎮 PlayStation Sales Classification
-Built predictive classification model improving customer satisfaction metrics by 8%.
+✔ Improved fraud detection efficiency through optimized SQL pipelines and risk segmentation
+
+✔ Delivered executive-level reporting to risk leadership
+
+## ❤️ Cardiovascular Risk Prediction (ML Production Framework)
+
+✔ Designed and validated a classification model for early-stage heart failure detection
+
+✔ Applied feature engineering + statistical modeling for performance lift
+
+✔ Implemented cross-validation & model interpretability techniques
+
+✔ Built framework adaptable for healthcare risk scoring systems
+
+## 🚖 Dynamic Pricing & Revenue Optimization (Uber & Lyft Analysis)
+
+✔ Engineered an end-to-end data pipeline integrating APIs + SQL + BI tools
+
+✔ Improved pricing strategy insights, influencing revenue optimization by 25%
+
+✔ Performed weather-impact modeling & surge behavior analysis
+
+✔ Delivered data-driven recommendations for strategic pricing
+
+## 🎮 Consumer Behavior Classification Model
+
+✔ Developed predictive model improving customer segmentation and engagement metrics by 8%
+
+✔ Optimized feature selection and model performance
+
+✔ Delivered insights to enhance customer satisfaction KPIs
 
 ---
 
@@ -88,18 +114,19 @@ Built predictive classification model improving customer satisfaction metrics by
 🔗 Tableau Public (Coming soon)
 
 ---
-## ⚡ Fun Side
+## ⚡ Beyond Data
 
-Outside of data and analytics:
-- I enjoy building intelligent automation solutions
-- Passionate about mentoring & analytics leadership
-- Constant learner of AI & emerging tech
-- I love to cook and experiment with new recipes
-- Enjoy traveling and exploring new cultures
-- Watching movies across different genres
-- Going out with friends to try new restaurants and cuisines
-- Always learning new skills — both technical and personal
+- Outside of analytics, I focus on:
+
+- Mentoring aspiring data professionals
+
+- Exploring AI advancements & emerging technologies
+
+- Designing intelligent automation systems
+
+- Traveling and exploring global cultures
+
+- Culinary experimentation & creative cooking
 
 ---
-
-⭐ If you find my work interesting, feel free to connect!
+⭐ If you're interested in scalable data strategy, ML systems or risk analytics :) let’s connect.
