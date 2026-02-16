@@ -1,12 +1,8 @@
 
-<h1 align="center">Hi 👋 I'm Radhika Gupta</h1>
-<h3 align="center">Senior Data Analyst | Risk Analytics | Machine Learning </h3>
-
-<p align="center">
-  <a href="https://linkedin.com/in/gupta3103radhika">LinkedIn</a> •
-  <a href="mailto:gradhika@bu.edu">Email</a> •
-  Chicago, IL 🇺🇸
-</p>
+<h1 align="center">Hi 👋🏻 I'm Radhika Gupta</h1> 
+<h3 align="center">Senior Data Scientist | Risk & Decision Intelligence | Machine Learning Strategy</h3> <p align="center"> 
+<a href="https://linkedin.com/in/gupta3103radhika">LinkedIn</a> • <a href="mailto:gradhika@bu.edu">Email
+</a> • Chicago, IL 🇺🇸 </p>
 
 ---
 
@@ -15,35 +11,47 @@
 </p>
 
 
-## 👩‍💻 About Me
+## 👩🏻‍💻About Me
 
-📊 Senior Data Analyst with 5+ years of experience building scalable data solutions across fraud analytics, marketing analytics, and enterprise data systems.
+Senior Data Scientist with 5+ years of experience leading end to end analytics initiatives across Risk, Fraud, Marketing Analytics, and Enterprise Data Platforms.
 
-💡 I specialize in transforming complex datasets into clear business strategies using SQL, Machine Learning, and BI tools.
+I specialize in translating complex, large scale datasets into production grade machine learning systems and executive level decision intelligence. My work bridges advanced modeling with measurable business outcomes optimizing risk strategy, improving operational efficiency, and driving revenue growth.
 
-🚀 Currently focused on:
-- Risk & Fraud Analytics
-- ML Model Optimization
-- Data Warehousing & Cloud Architecture
-- AI-driven business solutions
+💡 Core Strengths:
 
-✨ I believe data isn’t just numbers — it’s decision intelligence.
+- Risk & Fraud Modeling Strategy
+
+- Production ML Systems & Model Governance
+
+- Scalable Data Architecture & Warehousing
+
+- Cross-functional Stakeholder Leadership
+
+- KPI Design & Executive Reporting
+
+🚀 I build solutions that move beyond experimentation — delivering scalable, monitored, business-aligned data products.
+
+✨ I believe data science is not just modeling — it’s influencing strategic decisions at scale.
 
 ---
 
 ## ⚙️ Tech Stack
 
-### 👩‍🔬 Data Science & ML
-Python • Scikit-Learn • TensorFlow • Keras • NLP • Computer Vision • Statistical Modeling
+### 👩‍🔬 Advanced Analytics & Machine Learning
 
-### 🗄️ Data Engineering & Databases
-SQL Server • PostgreSQL • MySQL • Azure SQL • Amazon Redshift • Data Modeling • ETL
+Python • Scikit-Learn • TensorFlow • Keras • NLP • Computer Vision • Statistical Modeling • A/B Testing • Model Monitoring • Feature Engineering • Model Optimization
 
-### 📊 Visualization
-Power BI • Tableau • Matplotlib • ggplot2
+### 🗄️ Data Architecture & Engineering
 
-### ☁️ Cloud & Tools
-AWS • Azure • AWS SageMaker • Git • Jupyter • VS Code • PyCharm
+SQL Server • PostgreSQL • MySQL • Azure SQL • Amazon Redshift • Data Modeling • ETL Design • Data Warehousing • Pipeline Optimization
+
+### 📊 Business Intelligence & Executive Reporting
+
+Power BI • Tableau • Matplotlib • ggplot2 • KPI Framework Design • Dashboard Strategy
+
+### ☁️ Cloud & MLOps
+
+AWS • Azure • AWS SageMaker • Git • CI/CD • Model Deployment • Jupyter • VS Code • PyCharm
 
 ---
 
@@ -80,22 +88,17 @@ Built predictive classification model improving customer satisfaction metrics by
 🔗 Tableau Public (Coming soon)
 
 ---
-
-## 🎯 2026 Goals
-
-- Contribute to open-source ML projects
-- Publish technical case studies on fraud detection
-- Build end-to-end ML deployment project
-- Deep dive into Explainable AI (XAI)
-
----
-
 ## ⚡ Fun Side
 
-Outside data:
+Outside of data and analytics:
 - I enjoy building intelligent automation solutions
 - Passionate about mentoring & analytics leadership
 - Constant learner of AI & emerging tech
+- I love to cook and experiment with new recipes
+- Enjoy traveling and exploring new cultures
+- Watching movies across different genres
+- Going out with friends to try new restaurants and cuisines
+- Always learning new skills — both technical and personal
 
 ---
 
