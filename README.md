@@ -115,9 +115,6 @@ AWS • Azure • AWS SageMaker • Git • CI/CD • Model Deployment • Jupyt
 
 ---
 ## ⚡ Beyond Data
-
-- Outside of analytics, I focus on:
-
 - Mentoring aspiring data professionals
 
 - Exploring AI advancements & emerging technologies
@@ -127,6 +124,5 @@ AWS • Azure • AWS SageMaker • Git • CI/CD • Model Deployment • Jupyt
 - Traveling and exploring global cultures
 
 - Culinary experimentation & creative cooking
-
 ---
 ⭐ If you're interested in scalable data strategy, ML systems or risk analytics :) let’s connect.
